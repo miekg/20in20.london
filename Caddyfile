@@ -1,0 +1,15 @@
+http://localhost:8081
+    root .
+
+    internal /include
+    internal /md
+
+    templates /
+
+    log stdout
+    errors stdout
+
+    ext .html
+    gzip
+
+}
