@@ -54,8 +54,8 @@
             <!--Page heading-->
             <div class="row">
                 <div class="col-md-12">
-                    <h1 class="h1-responsive">Page heading
-                        <small class="text-muted">secondary text</small>
+                    <h1 class="h1-responsive">Why
+                        <small class="text-muted">Our Stories</small>
                     </h1>
                 </div>
             </div>
@@ -67,21 +67,21 @@
                 <!--Featured image-->
                 <div class="col-md-5">
                     <div class="view overlay hm-white-light z-depth-1-half">
-                        <img src="http://mdbootstrap.com/images/slides/slide%20(11).jpg" class="img-fluid" alt="">
+                        <img src="/img/cow-1920x2880.jpeg" class="img-fluid" alt="">
                         <div class="mask"></div>
                     </div>
                 </div>
                 <!--/.Featured image-->
 
-                <!--Post excerpt-->
                 <div class="col-md-7">
-                    <a href="#!"><h2 class="post-title">Post title</h2></a>
-                    <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit molestias voluptates incidunt tempora ducimus! At cum iusto necessitatibus sed omnis nemo natus. iure magni quasi dolores similique aspernatur.</p>
-                    <div class="read-more">
-                        <a href="#!" class="btn btn-primary">Learn more</a>
-                    </div>
+                    <a href="#!"><h2 class="post-title">Ans Vaessen</h2></a>
+                    <p class="lead">
+                        {{.Markdown "/md/why-lead.md"}}
+                   </p>
+                   <p>
+                        {{.Markdown "/md/why.md"}}
+                   </p>
                 </div>
-                <!--/.Post excerpt-->
             </div>
             <!--/.First row-->
             <hr>
