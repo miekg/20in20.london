@@ -55,9 +55,7 @@
             <!--Page heading-->
             <div class="row">
                 <div class="col-md-12">
-                    <h1 class="h1-responsive">Page heading
-                        <small class="text-muted">secondary text</small>
-                    </h1>
+                    <h1 class="h1-responsive">MS Trust</h1>
                 </div>
             </div>
             <!--/.Page heading-->
@@ -76,11 +74,13 @@
 
                 <!--Post excerpt-->
                 <div class="col-md-7">
-                    <a href="#!"><h2 class="post-title">Post title</h2></a>
-                    <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit molestias voluptates incidunt tempora ducimus! At cum iusto necessitatibus sed omnis nemo natus. iure magni quasi dolores similique aspernatur.</p>
-                    <div class="read-more">
-                        <a href="#!" class="btn btn-primary">Learn more</a>
-                    </div>
+                    <a href="#!"><h2 class="post-title">What is MS?</h2></a>
+                    <p class="lead">
+                        {{.Markdown "/md/ms-lead.md"}}
+                    </p>
+                    <p>
+                        {{.Markdown "/md/ms.md"}}
+                    </p>
                 </div>
                 <!--/.Post excerpt-->
             </div>
