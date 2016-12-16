@@ -4,9 +4,9 @@ At the MS Trust we believe one of the best ways to help people with MS is
 to support them to take more control of their MS. Our information team
 produces practical, evidence based information so you can:
 
-* make choices that are right for you
-* decide how best to deal with your health
-* have better informed discussions with your health professionals.
+* Make choices that are right for you.
+* Decide how best to deal with your health.
+* Have better informed discussions with your health professionals.
 
 We are also the only charity to offer education to all MS Nurses and we are
 starting to fund MS Nurses.
