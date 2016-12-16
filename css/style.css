@@ -7,8 +7,7 @@
 }
 
 .view {
-    /* background: url("/img/overlays/london-city-evening.jpeg")no-repeat center center fixed; */
-    background: url("/img/overlays/logoms-red.jpeg")no-repeat center center fixed;
+    background: url("/img/overlays/london-city-evening.jpeg")no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
