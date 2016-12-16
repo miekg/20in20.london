@@ -1,0 +1,45 @@
+<div class="card wow fadeInUp" data-wow-delay="0.4s">
+
+    <!--Card image-->
+    <div class="view overlay hm-white-slight">
+        <img src="img/cards/city-accessibility.jpeg" class="img-fluid" alt="People on a tour">
+        <a>
+            <div class="mask"></div>
+        </a>
+    </div>
+    <!--/.Card image-->
+
+    <!--Card content-->
+    <div class="card-block text-xs-center">
+        <!--Title-->
+        <h4 class="card-title">Accessible Walks</h4>
+        <hr>
+        <!--Text-->
+        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident fuga animi architecto dolores dicta cum quo velit.</p>
+        <a href="#" class="btn btn-primary" data-toggle="collapse" data-target="#detail-access">Details</a>
+
+        <!--/.Card content-->
+    </div>
+
+    <div class="collapse" id="detail-access">
+        <br/>
+        <ul class="list-group">
+            <li class="list-group-item">
+                <span class="tag bg-primary label-pill float-xs-right">&pound; 14</span><span class="float-md-left">6 AM</span><br/>
+                Butchers walk +
+                visit Smithfield
+                meat market
+            </li>
+            <li class="list-group-item">
+                <span class="tag bg-primary label-pill float-xs-right">&pound; 2</span><span class="float-md-left">7 AM</span><br/>
+                Sunrise walk
+            </li>
+            <li class="list-group-item">
+                <span class="tag bg-primary label-pill float-xs-right">&pound; 1</span><span class="float-md-left">8 AM</span>
+                {{.Include "/include/wheel.html"}}
+                <br/>
+                Livery walk + Visit Vintners
+            </li>
+        </ul>
+    </div>
+</div>
