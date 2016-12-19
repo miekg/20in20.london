@@ -62,9 +62,25 @@
             <!--/.Page heading-->
             <hr>
 
+<!-- Nav tabs -->
+<ul class="nav nav-tabs tabs-2" role="tablist">
+    <li class="nav-item">
+        <a class="nav-link" data-toggle="tab" href="#panel-ans" role="tab"> Ans Vaessen</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" data-toggle="tab" href="#panel-heleen" role="tab"> Heleen van Schoonhoven</a>
+    </li>
+</ul>
+
+
             <!--First row-->
             <div class="row">
                 <!--Featured image-->
+<!-- Tab panels -->
+<div class="tab-content">
+
+
+    <div class="tab-pane fade in active" id="panel-ans" role="tabpanel">
                 <div class="col-md-5">
                     <div class="view overlay hm-white-light z-depth-1-half">
                         <img src="/img/ans-vaessen.jpeg" class="img-fluid" alt="">
@@ -76,15 +92,38 @@
                 <div class="col-md-7">
                     <a href="#!"><h2 class="post-title">Ans Vaessen</h2></a>
                     <p class="lead">
-                        {{.Markdown "/md/why-lead.md"}}
+                        {{.Markdown "/md/why-lead-ans.md"}}
                    </p>
                    <p>
-                        {{.Markdown "/md/why.md"}}
+                        {{.Markdown "/md/why-ans.md"}}
                    </p>
                 </div>
+    </div>
+    <div class="tab-pane fade in" id="panel-heleen" role="tabpanel">
+                <div class="col-md-5">
+                    <div class="view overlay hm-white-light z-depth-1-half">
+                        <img src="/img/" class="img-fluid" alt="">
+                        <div class="mask"></div>
+                    </div>
+                </div>
+                <!--/.Featured image-->
+
+                <div class="col-md-7">
+                    <a href="#!"><h2 class="post-title">Heleen van Schoonhoven</h2></a>
+                    <p class="lead">
+                        {{.Markdown "/md/why-lead-heleen.md"}}
+                   </p>
+                   <p>
+                        {{.Markdown "/md/why-heleen.md"}}
+                   </p>
+                </div>
+    </div>
+
+</div> <!-- tab content -->
             </div>
             <!--/.First row-->
             <hr>
+
 
         <!--/.Main layout-->
     </main>
