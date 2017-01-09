@@ -7,7 +7,7 @@ When:
 : Thursday 25th May 2017 from sunrise to midnight.
 
 Where:
-: City of London and suroundings.
+: City of London and surroundings.
 
 What:
 : A guiding marathon with 45 guides providing various walks to as
