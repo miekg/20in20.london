@@ -14,9 +14,9 @@ starting to fund MS Nurses.
 
 ## What the MS Trust can do with £20,000
 
-* Cover the costs of our enquiry line for 1 year to answers questions about
+* - Cover the costs of our enquiry line for 1 year to answers questions about
   MS for people living within the London Boroughs.
-* Cover the cost of all [our publications](https://support.mstrust.org.uk/shop)
+* - Cover the cost of all [our publications](https://support.mstrust.org.uk/shop)
   sent for 1 quarter of a year to people affected with MS living within the London Boroughs.
-* Cover the cost of Open Door our quarterly newsletter to the London region for 1 year.
-* Cover to the cost to train 12 MS Nurses who are new in post and attend our development module.
+* - Cover the cost of Open Door our quarterly newsletter to the London region for 1 year.
+* - Cover to the cost to train 12 MS Nurses who are new in post and attend our development module.
