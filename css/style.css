@@ -28,3 +28,7 @@
 .logo {
     height: 100px;
 }
+
+.huge {
+    font-size: 400%;
+}

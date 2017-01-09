@@ -13,12 +13,9 @@ What:
 : A guiding marathon with 45 guides providing various walks to as
   many as 825 people in the City of London.
 
-<div class="text-center">
-<ul>
-<li> A quality walk or cycle tour
-<li> Accessible for everybody young, old, families
-<li> Walks tailor made for people in a wheelchair or with visual impairment
-<li> A choice between a walk or something more exclusive...
-</ul>
+&nbsp;
 
-</div>
+* - A quality walk or cycle tour
+* - Accessible for everybody young, old, families
+* - Walks tailor made for people in a wheelchair or with visual impairment
+* - A choice between a walk or something more exclusive...
