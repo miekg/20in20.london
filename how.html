@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <title>20in20: How</title>
+
+    {{.Include "/include/style.html"}}
+
+    <!-- Template styles -->
+    <style rel="stylesheet">
+        /* TEMPLATE STYLES */
+
+        main {
+            margin-top: 3rem;
+        }
+
+        .lead {
+            text-align: justify;
+        }
+
+        @media only screen and (max-width: 768px) {
+            .post-title {
+                margin-top: 1rem;
+            }
+        }
+
+        @media only screen and (max-width: 768px) {
+            .read-more {
+                text-align: center;
+            }
+        }
+
+        .extra-margin {
+            margin-top: 2rem;
+            margin-bottom: 2rem;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <header>
+    </header>
+
+    <main>
+        <!--Main layout-->
+        <div class="container">
+
+            <!--Page heading-->
+            <div class="row">
+                <div class="col-md-12">
+                    <h1 class="h1-responsive">How</h1>
+                </div>
+            </div>
+            <!--/.Page heading-->
+            <hr>
+
+            <!--First row-->
+            <div class="row">
+                <!--Featured image-->
+                <div class="col-md-5">
+                    <div class="view overlay hm-white-light z-depth-1-half">
+                        <img src="/img/....jpeg" class="img-fluid" alt="">
+                        <div class="mask"></div>
+                    </div>
+                </div>
+                <!--/.Featured image-->
+
+                <!--Post excerpt-->
+                <div class="col-md-7">
+                    <a href="#!"><h2 class="post-title">How</h2></a>
+                    <p class="lead">
+                        {{.Markdown "/md/how-lead.md"}}
+                    </p>
+                    <p>
+                        {{.Markdown "/md/how.md"}}
+                    </p>
+                </div>
+                <!--/.Post excerpt-->
+            </div>
+            <!--/.First row-->
+            <hr>
+
+        <!--/.Main layout-->
+    </main>
+
+    <!--Footer-->
+    <footer class="page-footer center-on-small-only">
+        {{.Include "/include/footer.html"}}
+    </footer>
+    <!--/.Footer-->
+
+    {{.Include "/include/scripts.html"}}
+
+</body>
+</html>
