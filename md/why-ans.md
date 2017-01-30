@@ -50,3 +50,5 @@ event will consist of a walking tour beginning every hour and there will
 also be some exclusive walks. For me it was important to do something that
 everybody can take part in, so there are special walks for people who are
 visually impaired or in a wheelchair.
+
+[Book now!](/index.html#walks)

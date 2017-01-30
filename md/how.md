@@ -19,3 +19,5 @@ What:
 * - Accessible for everybody young, old, families
 * - Walks tailor made for people in a wheelchair or with visual impairment
 * - A choice between a walk or something more exclusive...
+
+[Book now!](/index.html#walks)
