@@ -1,6 +1,6 @@
 I still remember the day, when the doctor told us it was Multiple Sclerosis (MS). My dad was 38
-years old, father of three children…I was 10 years old when the news hit us. Little did we knew
-about this disease? Many questions, yet no one with definitive answers as to what to expect. There
+years old, father of three children…I was 10 years old when the news hit us. Little did we know
+about this disease. Many questions, yet no one with definitive answers as to what to expect. There
 is no such thing as one MS.
  
 In the first few years, it was this uncertainty which was causing a lot of pain. As hard as my
