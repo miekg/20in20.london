@@ -40,7 +40,7 @@ celebrate all the good things. Don’t wait for the future but live in the
 moment. This was an important factor in my decision to chase another dream
 after we had moved to London: becoming a guide.
 
-Now, almost ten years after being diagnosed with possible MS, I look back
+Now, almost ten years after being diagnosed with 'possible MS', I look back
 and see that the resultant change in mentality has brought me joy in life.
 But I also understand I was one of the lucky ones, and I wanted to do
 something for those who weren't as fortunate.
