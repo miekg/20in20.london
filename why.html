@@ -11,34 +11,7 @@
 
     {{.Include "/include/style.html"}}
 
-    <style rel="stylesheet">
-        /* TEMPLATE STYLES */
-
-        main {
-            margin-top: 3rem;
-        }
-
-        .lead {
-            text-align: justify;
-        }
-
-        @media only screen and (max-width: 768px) {
-            .post-title {
-                margin-top: 1rem;
-            }
-        }
-
-        @media only screen and (max-width: 768px) {
-            .read-more {
-                text-align: center;
-            }
-        }
-
-        .extra-margin {
-            margin-top: 2rem;
-            margin-bottom: 2rem;
-        }
-    </style>
+    {{.Include "/include/style-extra.html"}}
 
 </head>
 
