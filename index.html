@@ -50,6 +50,9 @@
                     <a href="/why.html" class="btn btn-default btn-lg">Why</a>
                     <a href="/how.html" class="btn btn-warning btn-lg">How</a>
                     <a href="#walks" class="btn btn-success btn-lg">Walks</a>
+                    <a href="mailto:jo@20in20.london?subject=[20in20]%20Getting%20Involved" class="btn btn-primary btn-lg">
+                        <span class="fa fa-envelope"> </span> Get Involved
+                    </a>
                 </li>
                 <li>
                     <a href="/ms.html" class="btn btn-info btn-lg">MS Trust</a>
@@ -62,15 +65,24 @@
      <main class="pt-6">
         <div class="container text-xs-center">
 
+      <!--Section: Involved -->
+        <section class="section" id="Involved ">
+
+            <h2 class="section-heading">Get Involved?</h2>
+
+                {{.Include "/include/involved.html"}}
+
+        </section>
+        <!--/Section: Involved -->
+
+    <hr class="between-sections">
+
       <!--Section: Sponsors-->
         <section class="section" id="sponsors">
 
             <h2 class="section-heading">Sponsors</h2>
 
                 {{.Include "/include/sponsor.html"}}
-
-            <div class="row">
-            </div>
 
         </section>
         <!--/Section: Sponsors -->
