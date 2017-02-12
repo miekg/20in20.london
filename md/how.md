@@ -8,7 +8,7 @@ When:
 : Thursday 25th May 2017 - from sunrise to midnight.
 
 Where:
-: City of London and surroundings.
+: The City of London and surroundings.
 
 What:
 : Our 45 guides will provide a choice of walks to 800 people, or more:
