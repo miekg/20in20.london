@@ -36,5 +36,3 @@ also to all those other people fighting against this terrible disease.
  
 I feel privileged and proud to be able to contribute and I am sure that this exciting initiative
 will become a big success!
-
-[Book now!](/index.html#walks)

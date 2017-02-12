@@ -1,7 +1,7 @@
 ## What does the MS Trust do?
 
 At the [MS Trust](https://www.mstrust.org.uk/),
- we want to help people to help themselves by taking more control over their MS.  
+ we want to help people to help themselves by taking more control over their MS.
  Our team produces practical, evidence-based information so individuals can:
 
 * Make choices that are right for them.
