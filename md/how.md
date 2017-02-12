@@ -16,4 +16,4 @@ What:
 * - High-quality walks or cycle tours
 * - Open to all - young, old and families
 * - Tailor-made for people who are visual impaired or in a wheelchair
-* - The choice of standard walk or something more exclusive
+* - The choice of a standard walk or something more exclusive
