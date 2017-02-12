@@ -14,7 +14,7 @@ Where:
 
 What:
 : Our 45 guides will provide a choice of walks to 800 people, or more:
-
+<!-- bogus -->
 * - High quality walks or cycle tours
 * - Open to all - young, old and families
 * - Tailor made for people who are visual impaired or in a wheelchair
