@@ -5,7 +5,7 @@
    * - 15 Exclusive tours for 15 people at a time, at £35 per person, will raise £8,000
 
 When:
-: Thursday 25th May 2017 - from sunrise to midnight.
+: Thursday 25th May 2017 &mdash; from sunrise to midnight.
 
 Where:
 : The City of London and its surroundings.
@@ -14,6 +14,6 @@ What:
 : Our 45 guides will provide a choice of walks to 800 people, or more:
 <!-- bogus -->
 * - High-quality walks or cycle tours
-* - Open to all - young, old and families
+* - Open to all &mdash; young, old and families
 * - Tailor-made for people who are visual impaired or in a wheelchair
 * - The choice of a standard walk or something more exclusive
