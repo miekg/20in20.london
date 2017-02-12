@@ -8,12 +8,12 @@ When:
 : Thursday 25th May 2017 - from sunrise to midnight.
 
 Where:
-: The City of London and surroundings.
+: The City of London and its surroundings.
 
 What:
 : Our 45 guides will provide a choice of walks to 800 people, or more:
 <!-- bogus -->
-* - High quality walks or cycle tours
+* - High-quality walks or cycle tours
 * - Open to all - young, old and families
-* - Tailor made for people who are visual impaired or in a wheelchair
+* - Tailor-made for people who are visual impaired or in a wheelchair
 * - The choice of standard walk or something more exclusive
