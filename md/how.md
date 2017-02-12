@@ -1,5 +1,3 @@
-How:
-: Make £20,000 in 20 hours:
 
    Our guiding marathon means leading as many people as we can on walks, bike rides or tours of the City of London
 
