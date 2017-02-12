@@ -13,8 +13,8 @@ also starting to fund MS Nurses.
 
 ## £20,000 will allow us to:
 
-* - Cover the costs of our enquiry line for one-year, to answers questions about
-  MS for people living within the London Boroughs.
+* - Cover the costs of our enquiry line for one year, to answers questions about
+  MS for people living within the London boroughs.
 * - Train twelve MS Nurses who are new in post and attend our development module.
 * - Produce and send [our publications](https://support.mstrust.org.uk/shop)
   to people affected with MS living within the London Boroughs for one quarter.
