@@ -44,3 +44,7 @@
 .underline {
     text-decoration: underline !important;
 }
+
+.sold-out {
+    box-shadow: none !important;
+}
