@@ -45,22 +45,15 @@
                 <li>
                     <a href="/why.html" class="btn btn-default btn-lg">Why</a>
                     <a href="/how.html" class="btn btn-warning btn-lg">How</a>
-                    <a href="#walks" class="btn btn-success btn-lg">Walks</a>
+                    <a href="/ms.html" class="btn btn-success btn-lg">MS Trust</a>
                 </li>
-            </ul>
-
-            <div class="well">
-                <div class="col-md-6">
-                <a class="" href="/ms.html">
-                    <img class="mx-auto rounded img-responsive logo" src="/img/ms-trust-logo.jpeg" alt="MS Trust Logo">
-                </a>
-                </div>
-                <div class="col-md-6">
+                <li>
                 <a class="" href="/">
                     <img class="mx-auto rounded img-responsive logo" src="/img/logoms-red.jpeg" alt="20in20 Logo">
                 </a>
-                </div>
-            </div>
+                </li>
+            </ul>
+
         </div>
         </div>
     </div>
@@ -68,35 +61,11 @@
      <main class="pt-6">
         <div class="container text-xs-center">
 
-      <!--Section: Involved -->
-        <section class="section" id="involved">
-
-            <h2 class="section-heading">Get Involved?</h2>
-
-                {{.Include "/include/involved.html"}}
-
-        </section>
-        <!--/Section: Involved -->
-
-    <hr class="between-sections">
-
-      <!--Section: Sponsors-->
-        <section class="section" id="sponsors">
-
-            <h2 class="section-heading">Sponsors</h2>
-
-                {{.Include "/include/sponsor.html"}}
-
-        </section>
-        <!--/Section: Sponsors -->
-
-    <hr class="between-sections">
-
       <!--Section: Walks-->
         <section class="section" id="walks">
 
             <h2 class="section-heading">Walks</h2>
-            <h2 class="section-heading"><em>More walks are being added every week</em></h2>
+            <h2 class="section-heading"><em>Book your walk now</em></h2>
 
             <div class="row">
                 <!--First columnn-->
@@ -119,7 +88,7 @@
 
                 <!--Fourth columnn-->
                 <div class="col-md-3">
-                    {{.Include "include/cards/accessibility.html"}}
+                    {{.Include "include/cards/cycling.html"}}
                 </div>
                 <!--Fourth columnn-->
             </div>
@@ -127,7 +96,7 @@
             <div class="row">
                 <!--First columnn-->
                 <div class="col-md-3">
-                    {{.Include "include/cards/cycling.html"}}
+                    {{.Include "include/cards/accessibility.html"}}
                 </div>
                 <!--First columnn-->
 
@@ -153,6 +122,29 @@
         </section>
         <!--/Section: Walks -->
 
+    <hr class="between-sections">
+
+      <!--Section: Involved -->
+        <section class="section" id="involved">
+
+            <h2 class="section-heading">Get Involved?</h2>
+
+                {{.Include "/include/involved.html"}}
+
+        </section>
+        <!--/Section: Involved -->
+
+    <hr class="between-sections">
+
+      <!--Section: Sponsors-->
+        <section class="section" id="sponsors">
+
+            <h2 class="section-heading">Sponsors</h2>
+
+                {{.Include "/include/sponsor.html"}}
+
+        </section>
+        <!--/Section: Sponsors -->
 
     </div>
      </main>
