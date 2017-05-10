@@ -48,3 +48,20 @@
 .sold-out {
     box-shadow: none !important;
 }
+
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+}
+
+.btn-sold-out {
+  background-color: transparent;
+  color: black !important;
+  font-weight: bold;
+}
