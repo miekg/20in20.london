@@ -45,23 +45,22 @@
     text-decoration: underline !important;
 }
 
-.sold-out {
+div.sold-out img {
     box-shadow: none !important;
 }
 
-.thumbnail {
+div.sold-out .thumbnail {
     position: relative;
 }
 
-.caption {
+div.sold-out .caption {
     position: absolute;
     top: 45%;
     left: 0;
     width: 100%;
 }
 
-.btn-sold-out {
-  background-color: transparent;
-  color: black !important;
-  font-weight: bold;
+div.sold-out a {
+   pointer-events: none;
+   cursor: default;
 }
